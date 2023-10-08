@@ -7,5 +7,6 @@ Researching through different sites is the first most important thing to underst
 There are two channels through which a customer can buy an air ticket – Online or At Locket. Depending on the channel used, the process flow differs marginally. 
 
 ----------------------------------------------------------------------------------
+
 !![ticket blocking flow chart](https://github.com/mayuri0409/Assignments_iimskills/assets/147300377/04f010b0-b206-4631-a1de-f13bc62e9e78)
 
