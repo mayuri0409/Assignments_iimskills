@@ -45,9 +45,11 @@ Table Format:
 |Row 2| Row description|
 |Row 3| Row description|
 
-~~Srikethrough~~ 
+~~Strikethrough~~ 
 
 - [x] Checklist with option selected
-- [ ] checklist item not selected 
+- [ ] checklist item not selected
+
+Smileys come when we put colon 😄:
 
 
