@@ -13,5 +13,8 @@ There are two channels through which a customer can buy an air ticket – Online
 Illustration 1 [^1] 
 [^1]: Illustration 1- [https://developers.google.com/youtube/v3/getting-started](https://www.researchgate.net/figure/Flowchart-of-conventional-and-online-ticket-reservations_fig1_330168774)https://www.researchgate.net/figure/Flowchart-of-conventional-and-online-ticket-reservations_fig1_330168774
 
-**At Locket:**
+## At Locket
+
+**At Locket: As per **
 Passenger physically goes to a ticket counter (Locket) and asks for a particular departure location. Once the departure is found, the passenger is asked for a destination location. After the destination is locked in, passenger data is asked for. Name, age, sex, address, ID proof details, if the destination is an international location then the passport details are asked as well. On confirmation, the system asks about the payment information and redirects to the relevant payment gateway. A hard-copy of the ticket and booking reference is handed over to the passenger once the payment is successful. 
+
