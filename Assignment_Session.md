@@ -8,7 +8,7 @@ There are two channels through which a customer can buy an air ticket – Online
 
 ----------------------------------------------------------------------------------
 
-!![ticket blocking flow chart](https://github.com/mayuri0409/Assignments_iimskills/assets/147300377/04f010b0-b206-4631-a1de-f13bc62e9e78)
+![ticket blocking flow chart](https://github.com/mayuri0409/Assignments_iimskills/assets/147300377/04f010b0-b206-4631-a1de-f13bc62e9e78)
 
 Illustration 1 [^1] 
 [^1]: Illustration 1- [https://developers.google.com/youtube/v3/getting-started](https://www.researchgate.net/figure/Flowchart-of-conventional-and-online-ticket-reservations_fig1_330168774)https://www.researchgate.net/figure/Flowchart-of-conventional-and-online-ticket-reservations_fig1_330168774
