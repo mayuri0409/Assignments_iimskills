@@ -50,6 +50,7 @@ Table Format:
 - [x] Checklist with option selected
 - [ ] checklist item not selected
 
-Smileys come when we put colon 😄:
+Smileys come when we put colon 😄: ⏰ 🎄
+
 
 
