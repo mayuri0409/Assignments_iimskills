@@ -45,6 +45,9 @@ Table Format:
 |Row 2| Row description|
 |Row 3| Row description|
 
+~~Srikethrough~~ 
 
+- [x] Checklist with option selected
+- [ ] checklist item not selected 
 
 
